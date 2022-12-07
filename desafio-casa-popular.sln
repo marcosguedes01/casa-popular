@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaPopularLib", "CasaPopularLib\CasaPopularLib.csproj", "{541988F6-C1CE-472A-B01A-D51A757C235A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaPopularLibTests", "CasaPopularLibTests\CasaPopularLibTests.csproj", "{F202A6B6-37B8-40E1-891A-B22062011A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541988F6-C1CE-472A-B01A-D51A757C235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541988F6-C1CE-472A-B01A-D51A757C235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541988F6-C1CE-472A-B01A-D51A757C235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541988F6-C1CE-472A-B01A-D51A757C235A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F202A6B6-37B8-40E1-891A-B22062011A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F202A6B6-37B8-40E1-891A-B22062011A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F202A6B6-37B8-40E1-891A-B22062011A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F202A6B6-37B8-40E1-891A-B22062011A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4FD8D9D-738F-4B2B-898F-013F8A478775}
+	EndGlobalSection
+EndGlobal
